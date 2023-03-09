@@ -1,3 +1,9 @@
+name = "MCMCCascadingFailureAnalysis"
+uuid = "f0cb5308-b8b8-42b1-acd4-2b54fe894122"
+authors = ["MostF"]
+version = "0.1.0"
+
+
 [deps]
 AbstractPlotting = "537997a7-5e4e-5d89-9595-2241ea00577e"
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
